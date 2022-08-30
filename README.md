@@ -1,6 +1,6 @@
-# Challenge 17 Regular Expressions Tutorial
+# Regular Expressions Tutorial ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-The purpose of this gist is to walk through what a regular expression is and how to use them. Regular Expressions (Regex) can be used when one is trying to match a certain character combination within a string. This is great for pulling out information from a given body of code as well as being used for validation. For example, this tutorial will follow an example code snippet that can be used to match an email. This tutorial will follow the different components of regular expressions. 
+The purpose of this gist is to give a detail explanation what a Regular Expressions (Regex) are and how to use them. Regex can be used when one is trying to match a certain character combination within a string. This is great for pulling out information from a given body of code as well as being used for validation. For example, this tutorial will follow an example code snippet that can be used to match an email. This tutorial will follow the different components of regular expressions. 
 
 
 ## Summary
@@ -24,6 +24,7 @@ Matching Email-
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+- [Author](#author)
 
 ## Regex Components
 
@@ -92,7 +93,7 @@ We can talk about grouping and capturing.
 
 When matching, we have to make sure we are following the guidelines of the group before moving on to the next group. 
 ### Bracket Expressions
-Contininuing with the code for matching an email:
+Continuing with the code for matching an email:
 
 `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
@@ -121,3 +122,12 @@ Back-references are not included in the given code.
 ### Look-ahead and Look-behind
 
 If using a look-ahead or look-behind, then it has to match in a certain order. It is not being used in the given matching an email code. 
+
+## Author
+
+- **GitHub repository:**
+  **[regex-tutorial](https://github.com/Leman102/regex-tutorial)**
+- **GitHub Profile:**
+  **[Leman102](https://github.com/Leman102)**
+- **E-mail:**
+  **leonelmancerap@gmail.com**
