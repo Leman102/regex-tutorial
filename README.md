@@ -1,4 +1,4 @@
-# Regular Expressions Tutorial ![](https://img.shields.io/static/v1?label=Hi&message=Welcome%20to%20my%20Regex%20tutorial&color=blue)
+# Match Email Regular Expressions Tutorial ![](https://img.shields.io/static/v1?label=Hi&message=Welcome%20to%20my%20Regex%20tutorial&color=blue)
 
 The purpose of this gist is to explain what a Regular Expression (Regex) is and how to use it.
 
@@ -83,4 +83,4 @@ The snippet `[a-z0-9_\.-]` specifies that just letters a-z, numbers 0-9, an unde
 - **E-mail:**
   **leonelmancerap@gmail.com**
 - **Gist:**
-  **[regex-tutorial](https://gist.github.com/Leman102/3c8598030d388cb52b9e2b87e071c966)**
+  **[match-email-regex-tutorial](https://gist.github.com/Leman102/3c8598030d388cb52b9e2b87e071c966)**
