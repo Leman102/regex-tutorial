@@ -82,3 +82,5 @@ The snippet `[a-z0-9_\.-]` specifies that just letters a-z, numbers 0-9, an unde
   **[Leman102](https://github.com/Leman102)**
 - **E-mail:**
   **leonelmancerap@gmail.com**
+- **Gist:**
+  **[regex-tutorial](https://gist.github.com/Leman102/3c8598030d388cb52b9e2b87e071c966)**
